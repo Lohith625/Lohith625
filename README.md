@@ -5,7 +5,7 @@
 
 <br/>
 
-<h3 align="center">Software engineer · Systems · Real-time · AI tooling</h3>
+<h3 align="center">CSE Student · Systems · Real-time · AI tooling</h3>
 <p align="center">
   <strong>Hassan, Karnataka</strong> · he/him · <em>Open-source contributor (Apache Airflow)</em>
 </p>
