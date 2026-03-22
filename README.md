@@ -215,7 +215,7 @@ UI · Docs · Import fixes
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lohith625&theme=dracula&no-frame=true&row=1&column=7&margin-w=10&no-bg=true" width="100%" alt="GitHub trophies"/>
+<img src="https://gh-trophy.cdnsoft.net/?username=Lohith625&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&no-bg=true" width="100%" alt="GitHub trophies"/>
 
 <br/><br/>
 
