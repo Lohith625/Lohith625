@@ -1,95 +1,131 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Lohith%20M&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=I%20build%20things%20that%20move%20fast%20%E2%9A%A1&descAlignY=62&descSize=20&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%"/>
+<!-- Header: rounded gradient only — no subtitle inside the image (avoids blob overlap & tiny unreadable text) -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d0d12,50:1a1033,100:2d1b69&height=210&section=header&text=Lohith%20M&fontSize=76&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Lohith M"/>
 
-</div>
+<br/>
 
-<div align="center">
+<h3 align="center">Software engineer · Systems · Real-time · AI tooling</h3>
+<p align="center">
+  <strong>Hassan, Karnataka</strong> · he/him · <em>Open-source contributor (Apache Airflow)</em>
+</p>
 
+<!-- Wider canvas + shorter lines = nothing gets clipped mid-word -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Real-time+systems+%7C+WebSockets+%7C+Docker+%E2%9A%A1;Open-source+contributor+%40+Apache+Airflow+%F0%9F%94%A5;RAG+pipelines+%7C+LLMs+%7C+Vector+search+%F0%9F%A7%A0;If+it+can+be+built%2C+I'll+build+it+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=C4B5FD&center=true&vCenter=true&width=980&height=55&lines=Real-time+collab+%C2%B7+WebSockets+%C2%B7+Docker+sandboxes;Apache+Airflow+%C2%B7+merged+PRs+%C2%B7+production-scale+OSS;RAG+%C2%B7+LangChain+%C2%B7+FAISS+%C2%B7+sub-15ms+retrieval;Building+products+that+stay+fast+under+load" alt="Rotating focus areas"/>
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohith-m-601021391/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://mlohith.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Lohith625-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lohith625)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohith-m-601021391/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://mlohith.netlify.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Lohith-625)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlohith25@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlohith25@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lohith625&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=Lohith625&style=for-the-badge&color=6366f1&label=VIEWS)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding"/>
+## What I do
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+I build **low-latency, production-minded systems**: real-time collaboration, **Docker-sandboxed** execution, and **RAG** pipelines that stay predictable when data grows.
+
+**Highlights**
+
+- **Apache Airflow** — merged PRs into widely used production OSS  
+- **DevCollab** — multi-user coding, **~1–5ms** sync, sandboxed runs  
+- **Codebase RAG** — **4,300+** chunks indexed, **~11ms** retrieval (FAISS)  
+- Ask me about **WebSockets · Docker · RAG · Airflow**
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt=""/>
 
 ```javascript
 const lohith = {
-  pronouns    : "he/him",
-  location    : "Hassan, Karnataka 🇮🇳",
-  passions    : ["real-time systems", "open source", "AI tooling"],
-  currentlyOn : "Building things that scale 🔨",
-  openTo      : ["collabs", "open source", "cool ideas"],
-  funFact     : "I debug Docker at 2am and enjoy it 🐳",
+  location: "Hassan, Karnataka 🇮🇳",
+  focus: ["real-time", "OSS", "RAG"],
+  mantra: "Ship, measure, harden, repeat.",
 };
 ```
 
-<br/>
+</td>
+</tr>
+</table>
 
-- 🔥 &nbsp;Merged PRs into **Apache Airflow** — 50k+ ⭐ production OSS
-- ⚡ &nbsp;Built **DevCollab** — real-time collab coding, Docker-sandboxed, ~1–5ms latency
-- 🧠 &nbsp;Engineered a **RAG pipeline** querying 4,300+ code chunks at ~11ms
-- 🌱 &nbsp;Always exploring the intersection of **systems + AI**
-- 💬 &nbsp;Ask me about **WebSockets, Docker, RAG, or Apache Airflow**
+## Mental model
 
-<br clear="right"/>
+```mermaid
+flowchart LR
+  subgraph RT["Real-time"]
+    A[WebSockets]
+    B[Sandboxed runtimes]
+  end
+  subgraph AI["Data & AI"]
+    C[RAG]
+    D[Vector search]
+  end
+  subgraph Ops["Ship"]
+    E[Docker]
+    F[CI / Git]
+  end
+  RT --> Ops
+  AI --> Ops
+```
 
----
+## Tech stack
 
-## ⚡ What I Build With
+**Languages**
 
-<div align="center">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,java,c&perline=8" alt="Languages"/>
+</p>
 
-### 〔 Core 〕
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**Frontend**
 
-### 〔 Frontend 〕
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=8" alt="Frontend"/>
+</p>
 
-### 〔 Backend 〕
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+**Backend & real-time**
 
-### 〔 Data & AI 〕
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=8" alt="Backend"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+</p>
 
-### 〔 DevOps 〕
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Data, AI & search**
 
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=8" alt="Data"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
+</p>
 
----
+**DevOps**
 
-## 🚀 Signature Projects
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,github,git,linux&perline=8" alt="DevOps"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+## Signature work
 
 <div align="center">
 <table>
@@ -97,9 +133,9 @@ const lohith = {
 <td width="50%" valign="top">
 
 ### ⚡ DevCollab
-> *Real-time collaborative coding — the way it should be*
+> Real-time collaborative coding — Docker-sandboxed, built for speed.
 
-Multi-user coding platform where everything syncs live. Docker-sandboxed execution so no one nukes the server. Built for speed.
+Multi-user sync with sandboxed execution so nobody nukes the host.
 
 ```
 10+ concurrent users
@@ -117,9 +153,9 @@ Multi-user coding platform where everything syncs live. Docker-sandboxed executi
 <td width="50%" valign="top">
 
 ### 🧠 Codebase RAG
-> *Ask your codebase anything. It answers.*
+> Ask your codebase anything — answers in milliseconds.
 
-Semantic search tool for large repos. Chunk, embed, retrieve — all at ~11ms. Built on FAISS + LangChain + Gemini. Developers stop grepping, start asking.
+Chunk, embed, retrieve with FAISS + LangChain.
 
 ```
 4,300+ code chunks indexed
@@ -138,9 +174,9 @@ Semantic search tool for large repos. Chunk, embed, retrieve — all at ~11ms. B
 <td width="50%" valign="top">
 
 ### 🖼️ Pixora
-> *Share images. Beautifully.*
+> Images with auth and CDN delivery that holds up.
 
-Full-stack image platform. Google OAuth, JWT, Cloudinary CDN — everything wired up properly, not hacked together.
+Google OAuth, JWT, Cloudinary — wired properly.
 
 ```
 Google OAuth + JWT auth
@@ -157,9 +193,7 @@ Tailwind responsive UI
 <td width="50%" valign="top">
 
 ### 🌊 Apache Airflow
-> *Contributing to OSS used by millions*
-
-Active contributor to Apache Airflow — one of the most widely used Python workflow tools on the planet. Real PRs, real reviews, real impact.
+> OSS used at serious scale — real reviews, real merges.
 
 ```
 50,000+ GitHub stars
@@ -170,52 +204,48 @@ UI · Docs · Import fixes
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat-square&logo=Apache+Airflow&logoColor=white)
 
-🔗 [View merged PRs →](https://github.com/pulls?q=is%3Apr+author%3ALohith625+is%3Amerged)
+[View merged PRs →](https://github.com/pulls?q=is%3Apr+author%3ALohith625+is%3Amerged)
 
 </td>
 </tr>
 </table>
 </div>
 
----
-
-## 📊 Stats
+## GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lohith625&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith625&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lohith625&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" width="60%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Lohith625/Lohith625/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lohith625&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ff6b6b&area=true&area_color=a78bfa&hide_border=true&custom_title=Lohith's%20Contribution%20Graph" width="100%"/>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lohith625&theme=dracula&no-frame=true&row=1&column=7&margin-w=10&no-bg=true" width="100%" alt="GitHub trophies"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&fontSize=16&fontColor=a78bfa&text=Let's%20build%20something%20great%20together&fontAlignY=65" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Lohith625&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="180" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith625&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&langs_count=8" height="180" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lohith625&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=ff6b6b&currStreakLabel=c4b5fd&sideLabels=c9d1d9&dates=c9d1d9" width="88%" alt="Contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lohith625&bg_color=0d1117&color=c4b5fd&line=a78bfa&point=ff6b6b&area=true&area_color=6366f133&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="Activity graph"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Lohith625/Lohith625/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Refresh the page for a new quote.</sub>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="82%" alt="Quote"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d12,50:1a1033,100:2d1b69&height=115&section=footer&fontSize=16&fontColor=c4b5fd&text=Let%27s%20build%20something%20that%20survives%20production&fontAlignY=70" width="100%" alt="Footer"/>
 
 </div>
